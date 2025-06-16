@@ -6,7 +6,7 @@ import os
 
 def number_guessing_game():
     print("🎮 Welcome to the Number Guessing Game!")
-    print("I'm thinking of a number between 1 and 100.")
+    print("I'm thinking of a number between 1 and 100")
     
     number_to_guess = random.randint(1, 100)
     attempts = 0
